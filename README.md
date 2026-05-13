@@ -1,4 +1,4 @@
-# WebFuzz — Async Web Directory Scanner
+# dirhunter
 
 A fast, asynchronous Python web directory and file fuzzer with wildcard detection, smart path mutation, and sensitive path flagging.
 
